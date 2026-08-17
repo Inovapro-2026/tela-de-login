@@ -1,0 +1,6 @@
+{
+  "name": "Glassmorphism Animated Auth",
+  "description": "Tela de autenticação glassmorphism SAVYRON com mascote interativo animado em SVG e inteligência comercial.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
